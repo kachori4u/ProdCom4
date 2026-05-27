@@ -1,7 +1,7 @@
 {
-  "name": "myntra-ai-style-mirror",
+  "name": "prod-com4",
   "private": true,
-  "version": "2.0.0",
+  "version": "1.0.0",
   "type": "module",
 
   "scripts": {
@@ -11,12 +11,12 @@
   },
 
   "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
   },
 
   "devDependencies": {
-    "vite": "^4.5.0",
-    "@vitejs/plugin-react": "^4.0.4"
+    "vite": "4.5.0",
+    "@vitejs/plugin-react": "4.0.4"
   }
 }
